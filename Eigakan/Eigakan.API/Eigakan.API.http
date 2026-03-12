@@ -1,0 +1,6 @@
+@Eigakan.API_HostAddress = http://localhost:5105
+
+GET {{Eigakan.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
